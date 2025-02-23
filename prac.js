@@ -1,1 +1,12 @@
-console.log("mahika");
+const x=10;
+const y=20;
+const z=x+y;
+console.log(z);
+const a=10;
+const b=20;
+const c=a+b;
+console.log(c);
+const d=10;
+const e=20;
+const f=d+e;
+console.log(f);
