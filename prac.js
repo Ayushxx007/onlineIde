@@ -9,4 +9,4 @@ console.log(c);
 const d=10;
 const e=20;
 const f=d+e;
-console.log(f);
+console.log(f+"");
